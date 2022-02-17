@@ -1,0 +1,2 @@
+- New to programming and looking to further my skills
+- Starting off with C++ 
